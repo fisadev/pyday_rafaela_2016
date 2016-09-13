@@ -24,7 +24,7 @@
    inkscape:export-ydpi="149.98"><metadata
      id="metadata4153"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -38,7 +38,7 @@
      id="namedview4151"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="942.6712"
+     inkscape:cx="706.6712"
      inkscape:cy="331.65549"
      inkscape:window-x="0"
      inkscape:window-y="39"
@@ -962,8 +962,8 @@
        sodipodi:role="line"
        x="97.618935"
        y="217.44681"
-       id="tspan5834"
-       style="text-align:start;text-anchor:start">9:30 a 18 hs. Cursos y charlas</tspan></text>
+       style="text-align:start;text-anchor:start"
+       id="tspan4539">9:30 a 18 hs. Charlas</tspan></text>
 <g
      transform="translate(2.0936804,210.38915)"
      id="text4163"
@@ -1691,5 +1691,5 @@
        sodipodi:role="line"
        id="tspan4564"
        x="179.20599"
-       y="210.46071"> </tspan></text>
+       y="210.46071" /></text>
 </svg>
