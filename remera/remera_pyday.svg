@@ -51,16 +51,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="-1541.4233"
-     inkscape:cy="1104.4472"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-1858.7466"
+     inkscape:cy="719.13865"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1014"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -247,8 +247,8 @@
        sodipodi:nodetypes="ccccccccccccc"
        mask="none"
        inkscape:export-filename="/home/fisa/devel/PyConAr2014/diseño/remeras.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="446"
+       inkscape:export-ydpi="446" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20.96206284px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#dfb129;fill-opacity:1;stroke:none"
@@ -257,8 +257,8 @@
        id="text3395-4-35-6"
        sodipodi:linespacing="100%"
        inkscape:export-filename="/home/fisa/devel/PyConAr2014/diseño/remeras.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201"><tspan
          sodipodi:role="line"
          x="-2927.4824"
          y="-78.121368"
@@ -276,8 +276,8 @@
        d="m -2933.7067,-91.390365 0,32.80902"
        style="fill:none;stroke:#47a3da;stroke-width:1.29129827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/fisa/devel/PyConAr2014/diseño/remeras.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20.96206284px;line-height:100%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -286,8 +286,8 @@
        id="text3395-4-3-2-5"
        sodipodi:linespacing="100%"
        inkscape:export-filename="/home/fisa/devel/PyConAr2014/diseño/remeras.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201"><tspan
          sodipodi:role="line"
          id="tspan3397-5-6-7-6"
          x="-2939.0618"
@@ -306,13 +306,13 @@
        preserveAspectRatio="none"
        height="108.42348"
        width="108.42348"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201" />
     <g
        id="g4212"
        transform="matrix(0.82845361,0,0,0.82845361,-525.97392,-43.014638)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201">
       <path
          inkscape:connector-curvature="0"
          id="path3395"
@@ -327,8 +327,8 @@
     <g
        id="g4212-2"
        transform="matrix(0.82845361,0,0,0.82845361,-484.22485,-42.517572)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201">
       <path
          inkscape:connector-curvature="0"
          id="path3395-7"
@@ -343,8 +343,8 @@
     <g
        id="g4212-0"
        transform="matrix(-0.82845361,0,0,0.82845361,-5320.8117,-42.059001)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201">
       <path
          inkscape:connector-curvature="0"
          id="path3395-6"
@@ -359,8 +359,8 @@
     <g
        id="g4212-2-6"
        transform="matrix(-0.82845361,0,0,0.82845361,-5362.5608,-41.561931)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-xdpi="446.18201"
+       inkscape:export-ydpi="446.18201">
       <path
          inkscape:connector-curvature="0"
          id="path3395-7-1"
